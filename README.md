@@ -28,4 +28,4 @@ python main.py
 main.py is the MAIN func!
 Edit it to activate specific analyses.
 Keep the traj file and the property .npz file in the same folder as your .py codes to avoid hassle.
-the traj files are sample files, replace with your own traj files.
+the traj files are sample files, replace with your own traj files if you want.
